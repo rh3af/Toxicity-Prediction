@@ -6,13 +6,6 @@ The objective of this project is to predict the toxicity of a chemical compound 
 
 ## Approach
 
-To make predictions for the testing dataset in the `Submission.csv` file, you can follow one of the three approaches:
-
-1. **Docker**: Utilize Docker for a streamlined experience.
-2. **Pre-Generated Features**: Run the `Toxicity-Prediction.ipynb` file with pre-generated features to predict the toxicity.
-3. **Generate Features**: Run the `Toxicity-Prediction.ipynb` file to generate features and predict the toxicity.
-
-This approach enables accurate toxicity predictions for chemicals, contributing to safety in various industries.
 
 ## Getting Started
 
